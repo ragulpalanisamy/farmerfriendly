@@ -34,6 +34,7 @@ fixing specific bugs or addressing security vulnerabilities.
 
 
 
+
 #### Simple way to understand 
 
 ``1[MAJOR] - When incompatable Changes Made in the API``
